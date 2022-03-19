@@ -2,7 +2,7 @@
 
 - 🔭 Cursando ADS  
 - 🌱 Tenho foco em back-end
-- ⚡ Entusiasta da área de segurança
+- ⚡ Entusiasta de segurança
 
 <div align="center">
   <a href="https://github.com/brenotoyo">
