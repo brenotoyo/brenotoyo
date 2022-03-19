@@ -20,6 +20,4 @@
     <a href = "https://open.spotify.com/user/217zgxxj4aoawjm7wbnkjvelq" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
     <a href="https://br.linkedin.com/in/breno-toyonaga-891784159" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  
                                                                                        
-    ![Snake animation](https://github.com/brenotoyo/brenotoyo/blob/output/github-contribution-grid-snake.svg)
-                                                                                       
  </div>
